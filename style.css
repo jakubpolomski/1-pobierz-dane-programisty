@@ -1,0 +1,15 @@
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+h2 {
+    font-size: 19px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    display: none;
+}
