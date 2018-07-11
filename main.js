@@ -1,8 +1,6 @@
 $(document).ready(function () {
     
     $('#pobierz').after('<div id="dane-programisty"></div>');
-    
-    console.log(document);
 
     $('#pobierz').click(pobierzDane);
 
